@@ -1,6 +1,10 @@
 ac-assets
 =========
 
-Avalanche Canada Graphic Assets
+*** Avalanche Canada Graphic Assets
 
-/TODO Define asset usage guidlines
+All rights remain with avalanche canada
+Do not modify
+Do not distribute
+
+for more information contact b.strand@avalanche.ca
