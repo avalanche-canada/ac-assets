@@ -1,0 +1,15 @@
+curl -O http://google-maps-icons.googlecode.com/files/glacier.png
+curl -O http://maps.google.com/mapfiles/kml/shapes/caution.png
+curl -O http://google-maps-icons.googlecode.com/files/home.png
+curl -O http://maps.google.com/mapfiles/kml/pal4/icon61.png
+curl -O http://google-maps-icons.googlecode.com/files/lake.png
+curl -O http://maps.google.com/mapfiles/kml/shapes/parking_lot.png
+curl -O http://maps.google.com/mapfiles/kml/shapes/snowflake_simple.png
+curl -O http://maps.google.com/mapfiles/kml/shapes/hiker.png
+curl -O http://maps.google.com/mapfiles/kml/pal3/icon44.png
+curl -O http://maps.google.com/mapfiles/kml/shapes/homegardenbusiness.png
+curl -O http://maps.google.com/mapfiles/kml/shapes/hospitals.png
+curl -O http://maps.google.com/mapfiles/kml/pal2/icon7.png
+curl -O http://maps.google.com/mapfiles/kml/pal3/icon36.png
+curl -O http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png
+curl -O http://google-maps-icons.googlecode.com/files/parking.png
